@@ -1,0 +1,1 @@
+print "Hacked by kod3bre4ker. Subscribe to PewDiePie and fix your vulnerabilities!" 

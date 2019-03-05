@@ -1,0 +1,3 @@
+print "You have been hacked by kod3bre4ker. Please fix your vulnerabilities (close your opened ports), because everyone can access and even damage your printer.."
+display HACKED
+quit
